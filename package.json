@@ -4,7 +4,7 @@
   "description": "test task ()\u001b[D table info)\u001b[D\u001b[2~\u001b[2~s\u001b[D)\u001b[D output )",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --mode development",
+    "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
   "author": "Zhilin A.I.",
